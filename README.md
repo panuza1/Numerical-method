@@ -3,7 +3,7 @@
 
 # Numerical Methods
 
-## 1. พื้นฐานและแนวคิดสำคัญ (Fundamentals & Concepts)
+## 1.(Fundamentals & Concepts)
 
 ก่อนเรียนเรื่องคำนวณ ต้องเข้าใจข้อจำกัดของคอมพิวเตอร์กับตัวเลขจริง
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 2. การหาค่ารากของสมการ (Root Finding)
+## 2. (Root Finding)
 
 ใช้สำหรับแก้สมการที่ไม่มีคำตอบเชิงวิเคราะห์ เช่น f(x) = 0
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 3. การแก้ระบบสมการเชิงเส้น (Solving Linear Systems)
+## 3. (Solving Linear Systems)
 
 ใช้เมื่อมีสมการหลายตัว เช่น ระบบ Ax = b
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 4. การประมาณค่าและการแทรกค่า (Interpolation & Approximation)
+## 4. (Interpolation & Approximation)
 
 ใช้เมื่อมีข้อมูลบางจุด แล้วต้องการหาค่าระหว่างหรือสร้างสมการแทนข้อมูล
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 5. การหาค่าอนุพันธ์และอินทิกรัลเชิงตัวเลข (Numerical Differentiation & Integration)
+## 5. (Numerical Differentiation & Integration)
 
 ใช้แทนการหาอนุพันธ์หรืออินทิกรัลที่ซับซ้อนเกินไปจะคำนวณตรง ๆ ไม่ได้
 
@@ -83,7 +83,7 @@
 
 ---
 
-## 6. การแก้สมการเชิงอนุพันธ์สามัญ (Ordinary Differential Equations – ODEs)
+## 6.  (Ordinary Differential Equations – ODEs)
 
 ใช้กับแบบจำลองที่มีการเปลี่ยนแปลงต่อเนื่อง เช่น การเคลื่อนที่หรือการเติบโตของประชากร
 
@@ -99,7 +99,7 @@
 
 ---
 
-## 7. การนำไปประยุกต์ใช้จริง (Implementation & Application)
+## 7. (Implementation & Application)
 
 ส่วนนี้คือสิ่งที่ทำให้ Numerical Method มีชีวิต
 
@@ -114,7 +114,7 @@
 
 ---
 
-## 8. เรื่องขั้นสูง (Advanced Topics)
+## 8.  (Advanced Topics)
 
 เนื้อหาที่มักเรียนในชั้นปีสูงหรือระดับปริญญาโท
 
@@ -140,4 +140,4 @@
 
 ---
 
-Numerical Methods = คณิตศาสตร์ + การเขียนโปรแกรม + การแก้ปัญหาจริง
+
