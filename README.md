@@ -1,7 +1,7 @@
 [leacture numerical](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/week-1/)
 [py](https://tbc-python.fossee.in/book-details/766/?utm_source=chatgpt.com)
 
-# Numerical Methods – สิ่งที่ควรเรียนรู้
+# Numerical Methods
 
 ## 1. พื้นฐานและแนวคิดสำคัญ (Fundamentals & Concepts)
 
